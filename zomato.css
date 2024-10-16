@@ -87,7 +87,9 @@ body{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	gap: 10px;
+	gap: 10px; 
+	border:none;
+	outline:none;
 }
 
 #location_icon{
